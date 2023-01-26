@@ -1,9 +1,10 @@
 # ethioecommerce
-ip2 assignment 
+ip2 assignment For N3 
 
-1. Abenezer Assefa
-2. Michael Ashebir
-3. Zekariyas Wase
-4. Sofoniyas
-5. Ambachew Sisay
-6. Tadesse Bitew
+    Name                      ID
+1. Abenezer Assefa          UU78814R
+2. Michael Ashebir          UU78982R
+3. Zekariyas Wase           UU78817R
+4. Sofonias Kinfegebrail    UU82235R
+5. Ambachew Sisay           UU82405
+6. Tadesse Bitew            UU78888
