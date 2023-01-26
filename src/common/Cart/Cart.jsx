@@ -38,7 +38,7 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
                       </button>
                     </div>
                     {/* stpe: 5 
-                    product ko qty lai inc ra des garne
+                    internet Programming
                     */}
                     <div className='cartControl d_flex'>
                       <button className='incCart' onClick={() => addToCart(item)}>
